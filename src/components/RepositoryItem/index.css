@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.card-container {
+  width: 23%;
+
+  border-radius: 33px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  margin: 10px;
+  background-color: #f8f8ff;
+}
+.avatar-image {
+  width: 27%;
+}
+
+.card-heading {
+  color: #e73959;
+  font-size: 15px;
+}
+
+.desc-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.icon-img {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
+
+.desc-para {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 600;
+}

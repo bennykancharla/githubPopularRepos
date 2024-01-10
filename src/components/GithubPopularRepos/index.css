@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.main-bg {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+  font-size: 48px;
+}
+
+.filter-container {
+  width: 50%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.repos-container {
+  width: 90%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.failure-image {
+  width: 50%;
+}
