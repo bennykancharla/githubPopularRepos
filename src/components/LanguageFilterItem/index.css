@@ -1,6 +1,8 @@
 /* Write your CSS here */
 .each-filter {
   margin: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .filter-btn {
